@@ -1,4 +1,11 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
   "stickers" : [
     {
       "filename" : "champagne.sticker"
@@ -182,16 +189,6 @@
     },
     {
       "filename" : "burn.sticker"
-    },
-    {
-      "filename" : "mum's car.sticker"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "regular"
-  }
+  ]
 }
